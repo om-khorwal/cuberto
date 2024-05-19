@@ -145,6 +145,7 @@ object-fit: cover;
     width: 100%;
     align-items: center;
     justify-content: center;
+    padding: 2rem 5rem;
 }
 .btndiv button{
     padding: 1rem 3rem;
